@@ -46,6 +46,18 @@ p {
 }
 
 blockquote {
-    text-align: center;
+    text-align: left;
     font-size: 20px;
+    padding: 10px;
+}
+
+#git-section img {
+    height: 300px;
+    width: 500px;
+    object-fit: contain;
+}
+
+#html-section p {
+    text-align: justify;
+    padding: 5px;
 }

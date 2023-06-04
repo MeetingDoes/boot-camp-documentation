@@ -3,7 +3,7 @@
 ## Description
 
 This guide was created for boot camp students going through Prework. It contains notes on the following:
-- GitHub
+- Developer Mindset
 - HTML
 - CSS
 - Git
